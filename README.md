@@ -1,4 +1,4 @@
-<img align="right" width="600" height="400" src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif">
+<img align="right" width="450" height="300" src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif">
  
 # Bem-vindo! 👋
  
