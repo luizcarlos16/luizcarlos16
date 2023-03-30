@@ -82,9 +82,9 @@ Amo o que faço e sou movido a desafios!!! \o/ \o/
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-![Linkedin: luizcarlos16](https://img.shields.io/badge/-luizcarlos16-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/luizcarlos16)
-![Gmail Badge](https://img.shields.io/badge/-luiz.carlos.nascimento.jr@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.carlos.nascimento.jr@gmail.com)
-![GitHub: luizcarlos16]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)
+[![Linkedin: luizcarlos16](https://img.shields.io/badge/-luizcarlos16-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/luizcarlos16)](https://linkedin.com/in/luizcarlos16)
+[![Gmail Badge](https://img.shields.io/badge/-luiz.carlos.nascimento.jr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.carlos.nascimento.jr@gmail.com)](mailto:luiz.carlos.nascimento.jr@gmail.com)
+[![GitHub: luizcarlos16](https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/luizcarlos16)
 
  
 - Obrigado pela visita. 
