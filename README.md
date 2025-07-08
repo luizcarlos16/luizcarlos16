@@ -6,7 +6,7 @@
  
 ## Sobre mim
 
-Atuo na área de tecnologia a aproximadamente 18 anos!
+Atuo na área de tecnologia a aproximadamente 21 anos!
 A sopa de letras só aumenta e cada vez vamos adiquirindo novos conhecimentos e avançando.
 
 Tenho facilidade de aprendizado, interesse e grande facilidade para trabalhar em equipe. 
